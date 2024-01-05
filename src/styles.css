@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(/assets/images/background.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
